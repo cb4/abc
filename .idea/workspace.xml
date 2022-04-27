@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47ac7f7e-842b-404c-aad4-e9febc507a83" name="Changes" comment=".idea file changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="abc-1.6.0" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1651021087" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="abc-1.6.0" />
+                    <option name="lastUsedInstant" value="1651021086" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="RunManager" selected="Maven.dctaj clean install">
+    <list>
+      <item itemvalue="Ant Target.abc generate parsers" />
+      <item itemvalue="Application.dctaj main" />
+      <item itemvalue="Application.run dctaj" />
+      <item itemvalue="Application.testing abc" />
+      <item itemvalue="JAR Application.abc -v" />
+      <item itemvalue="JAR Application.abc simple test" />
+      <item itemvalue="JAR Application.run dctaj abc 08" />
+      <item itemvalue="JAR Application.testing abcTest100" />
+      <item itemvalue="JAR Application.testing abcTests.xml" />
+      <item itemvalue="JUnit.dct-aj step1" />
+      <item itemvalue="Maven.dctaj clean install" />
+      <item itemvalue="Maven.change project version" />
+      <item itemvalue="Maven.abc clean install" />
+      <item itemvalue="Maven.abc compile install" />
+      <item itemvalue="Maven.abc javadoc" />
+      <item itemvalue="Maven.abc package install" />
+      <item itemvalue="Maven.abc sniff jdk" />
+      <item itemvalue="Maven.abcX clean gen-sources" />
+      <item itemvalue="Maven.abcX clean package" />
+      <item itemvalue="Maven.abcX clean process-classes" />
+      <item itemvalue="Maven.abcX compile" />
+      <item itemvalue="Maven.abcX gen-sources" />
+      <item itemvalue="Maven.abcX validate compile" />
+      <item itemvalue="Maven.ajif clean install" />
+      <item itemvalue="Maven.get abc dependencies" />
+      <item itemvalue="Maven.install abc-1.3.0-original in local repo" />
+      <item itemvalue="Maven.install abc-all-deps using pom" />
+      <item itemvalue="Maven.install abc-cup" />
+      <item itemvalue="Maven.install abc-jasmin" />
+      <item itemvalue="Maven.install abc-jedd" />
+      <item itemvalue="Maven.install abc-jflex" />
+      <item itemvalue="Maven.install abc-paddle" />
+      <item itemvalue="Maven.install abc-polyglot" />
+      <item itemvalue="Maven.install abc-soot" />
+      <item itemvalue="Maven.install abc-xact" />
+      <item itemvalue="Maven.install aspectjmatcher-1.6.13" />
+      <item itemvalue="Maven.install aspectjrt-1.6.13" />
+      <item itemvalue="Maven.install aspectjtools-1.6.13" />
+      <item itemvalue="Maven.install aspectjweaver-1.6.13" />
+      <item itemvalue="Maven.install aspectj-1.6.13-src" />
+      <item itemvalue="Maven.install cup" />
+      <item itemvalue="Maven.install jasmin" />
+      <item itemvalue="Maven.install paddle" />
+      <item itemvalue="Maven.install polyglot" />
+      <item itemvalue="Maven.install soot" />
+      <item itemvalue="Maven.install xact in local repo" />
+      <item itemvalue="Maven.lib clean install debug" />
+      <item itemvalue="Maven.runtime clean install" />
+      <item itemvalue="Maven.runtimeX clean install" />
+      <item itemvalue="Maven.runtimeX compile" />
+      <item itemvalue="Maven.runtimeX validate compile" />
+      <item itemvalue="Maven.runtme package install" />
+      <item itemvalue="Maven.testing clean install" />
+      <item itemvalue="Maven.testing compile package" />
+      <item itemvalue="Maven.testing package install" />
+      <item itemvalue="Maven.testingX clean install offfline" />
+      <item itemvalue="Maven.testingX clean install X" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".idea file changes?" />
+    <option name="LAST_COMMIT_MESSAGE" value=".idea file changes?" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
